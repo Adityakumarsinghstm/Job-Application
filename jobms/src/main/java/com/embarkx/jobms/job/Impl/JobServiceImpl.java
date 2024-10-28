@@ -1,8 +1,8 @@
 package com.embarkx.jobms.job.Impl;
 
-import com.embarkx.firstjobapp.job.Job;
-import com.embarkx.firstjobapp.job.JobRepository;
-import com.embarkx.firstjobapp.job.JobService;
+import com.embarkx.jobms.job.Job;
+import com.embarkx.jobms.job.JobRepository;
+import com.embarkx.jobms.job.JobService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
