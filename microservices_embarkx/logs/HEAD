@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 ce97dcc6892db2e17dfccfe4fecc8d921bc07097 Aditya <adityasingh62065@gmail.com> 1711020029 +0530	commit (initial): Build and containerised a monolithic architecture
+ce97dcc6892db2e17dfccfe4fecc8d921bc07097 0000000000000000000000000000000000000000 Aditya <adityasingh62065@gmail.com> 1711020047 +0530	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 ce97dcc6892db2e17dfccfe4fecc8d921bc07097 Aditya <adityasingh62065@gmail.com> 1711020047 +0530	Branch: renamed refs/heads/master to refs/heads/main
+ce97dcc6892db2e17dfccfe4fecc8d921bc07097 ce97dcc6892db2e17dfccfe4fecc8d921bc07097 Aditya <adityasingh62065@gmail.com> 1711020152 +0530	checkout: moving from main to Aditya
+ce97dcc6892db2e17dfccfe4fecc8d921bc07097 5231e622efbcd3906397ffb4399e4bdb675918f9 Aditya <adityasingh62065@gmail.com> 1711021557 +0530	commit: added the dependency for postgresql database
+5231e622efbcd3906397ffb4399e4bdb675918f9 0000000000000000000000000000000000000000 Aditya <adityasingh62065@gmail.com> 1711021616 +0530	Branch: renamed refs/heads/Aditya to refs/heads/Aditya
+5231e622efbcd3906397ffb4399e4bdb675918f9 5231e622efbcd3906397ffb4399e4bdb675918f9 Aditya <adityasingh62065@gmail.com> 1711021616 +0530	Branch: renamed refs/heads/Aditya to refs/heads/Aditya
+5231e622efbcd3906397ffb4399e4bdb675918f9 352e1a8655a95296763794f570ce6b42a6c6bda7 Aditya <adityasingh62065@gmail.com> 1711022248 +0530	commit: added configuration in application.properties file for the postgresql database
+352e1a8655a95296763794f570ce6b42a6c6bda7 b29b6dc1db1cd20c021f049d03703aaf7e454c03 Aditya <adityasingh62065@gmail.com> 1714729587 +0530	commit: update the docker configuration
+b29b6dc1db1cd20c021f049d03703aaf7e454c03 546b406b624e24ea71a4a33419157c522a1d767b Aditya <adityasingh62065@gmail.com> 1714951390 +0530	commit: add postgresql data base and configure docker-compose.yaml file
