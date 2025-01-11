@@ -6,7 +6,6 @@
       <list>
         <option value="$PROJECT_DIR$/jobms/pom.xml" />
         <option value="$PROJECT_DIR$/companyms/pom.xml" />
-        <option value="$PROJECT_DIR$/firstjobapp/pom.xml" />
         <option value="$PROJECT_DIR$/reviewms/pom.xml" />
       </list>
     </option>
